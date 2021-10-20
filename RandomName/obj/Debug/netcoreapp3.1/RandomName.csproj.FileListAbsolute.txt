@@ -1,0 +1,16 @@
+C:\Users\cuong\OneDrive - UMGC\SkillBridge\RandomName\obj\Debug\netcoreapp3.1\RandomName.csproj.AssemblyReference.cache
+C:\Users\cuong\OneDrive - UMGC\SkillBridge\RandomName\obj\Debug\netcoreapp3.1\RandomName.Form1.resources
+C:\Users\cuong\OneDrive - UMGC\SkillBridge\RandomName\obj\Debug\netcoreapp3.1\RandomName.csproj.GenerateResource.cache
+C:\Users\cuong\OneDrive - UMGC\SkillBridge\RandomName\obj\Debug\netcoreapp3.1\RandomName.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cuong\OneDrive - UMGC\SkillBridge\RandomName\obj\Debug\netcoreapp3.1\RandomName.AssemblyInfoInputs.cache
+C:\Users\cuong\OneDrive - UMGC\SkillBridge\RandomName\obj\Debug\netcoreapp3.1\RandomName.AssemblyInfo.cs
+C:\Users\cuong\OneDrive - UMGC\SkillBridge\RandomName\obj\Debug\netcoreapp3.1\RandomName.csproj.CoreCompileInputs.cache
+C:\Users\cuong\OneDrive - UMGC\SkillBridge\RandomName\bin\Debug\netcoreapp3.1\RandomName.exe
+C:\Users\cuong\OneDrive - UMGC\SkillBridge\RandomName\bin\Debug\netcoreapp3.1\RandomName.deps.json
+C:\Users\cuong\OneDrive - UMGC\SkillBridge\RandomName\bin\Debug\netcoreapp3.1\RandomName.runtimeconfig.json
+C:\Users\cuong\OneDrive - UMGC\SkillBridge\RandomName\bin\Debug\netcoreapp3.1\RandomName.runtimeconfig.dev.json
+C:\Users\cuong\OneDrive - UMGC\SkillBridge\RandomName\bin\Debug\netcoreapp3.1\RandomName.dll
+C:\Users\cuong\OneDrive - UMGC\SkillBridge\RandomName\bin\Debug\netcoreapp3.1\RandomName.pdb
+C:\Users\cuong\OneDrive - UMGC\SkillBridge\RandomName\obj\Debug\netcoreapp3.1\RandomName.dll
+C:\Users\cuong\OneDrive - UMGC\SkillBridge\RandomName\obj\Debug\netcoreapp3.1\RandomName.pdb
+C:\Users\cuong\OneDrive - UMGC\SkillBridge\RandomName\obj\Debug\netcoreapp3.1\RandomName.genruntimeconfig.cache
